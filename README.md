@@ -10,3 +10,6 @@ NOTE: Project is saved on the master branch
 - Global search
 - Multithreaded search and download
 - Transfer to Tachiyomi mobile
+
+## Features done:
+- No features done: estimated development time: 3 months
