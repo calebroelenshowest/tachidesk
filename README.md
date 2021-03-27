@@ -13,3 +13,4 @@ NOTE: Project is saved on the master branch
 
 ## Features done:
 - No features done: estimated development time: 3 months
+## Im a total noob, expect messy code
