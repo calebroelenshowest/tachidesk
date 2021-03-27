@@ -1,5 +1,6 @@
 # Tachidesk
 A C# lookalike of Tachiyomi for desktop
+NOTE: Project is saved on the master branch
 
 ## Features to be implemented:
 - Custom sources
