@@ -12,5 +12,5 @@ NOTE: Project is saved on the master branch
 - Transfer to Tachiyomi mobile
 
 ## Features done:
-- No features done: estimated development time: 3 months
+- A  very long time, since I got little time.
 ## Im a total noob, expect messy code
