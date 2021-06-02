@@ -12,5 +12,5 @@ NOTE: Project is saved on the master branch
 - Transfer to Tachiyomi mobile
 
 ## Features done:
-- A  very long time, since I got little time.
+- None yet, I don't have enough time. Maybe a little progress in July & August.
 ## Im a total noob, expect messy code
